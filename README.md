@@ -1,5 +1,5 @@
 encryption_doc: |
-  # 🔐 Multi-Algorithm Text Encryption Utility (Python)
+  # 🔐 Text Encryption Tool (Python)
 
   This Python utility enables you to **encrypt and decrypt text** using three distinct encryption methods: **AES**, **DES**, and **RSA**. It showcases both symmetric and asymmetric encryption techniques through a simple command-line interface.
 
